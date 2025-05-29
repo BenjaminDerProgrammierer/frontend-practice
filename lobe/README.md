@@ -1,6 +1,6 @@
 # Frontend Practice: Lobe
 
-## Projet Task
+## Project Task
 
 Build the Lobe Tour static page using HTML and CSS.
 
